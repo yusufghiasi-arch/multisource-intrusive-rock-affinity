@@ -129,15 +129,7 @@ The result indicates moderate and spatially variable discrimination rather than 
 
  Repository structure
 
-.
-├── notebooks/
-│   └── intrusive_rock_affinity_workflow.ipynb
-├── outputs/
-│   ├── figures/
-│   └── sample_maps/
-├── README.md
-├── requirements.txt
-└── .gitignore
+
 
 Running the notebook
 
